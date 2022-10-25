@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fb5f714ac07b3364dbb435bbe93e8a6d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UpperBallShadow: {fileID: 2774329234544196989, guid: b811910988521bb46bcf434b9ed770b3, type: 3}
+  - LowerBallShadow: {fileID: 6081666016811274351, guid: 76d7f5cd1736480478c119e4fcf58ef2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

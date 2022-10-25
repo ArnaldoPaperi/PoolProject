@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76f95a78fc0ea8a48bcdccc4554df3fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabBallSolid: {fileID: 8235476628732673658, guid: 715c085241036f342ab8d18a7d0873fa, type: 3}
+  - prefabBallStripe: {fileID: 171581018903928459, guid: 7bd77e2dac780d9499e056086ae0e253, type: 3}
+  - prefabBall8: {fileID: 8844604249148123907, guid: 71a7a6a7d8a4a994db420bc500489f6d, type: 3}
+  - prefabBallWhite: {fileID: 6897120973117991361, guid: 406711060e1a5dc459ebbe35b94f68c0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
